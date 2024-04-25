@@ -2079,14 +2079,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: DangerWall (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 977526375029306894, guid: 6e2476c1a1cb178489afb95c94c28e43, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: 4696423257197244314, guid: 6e2476c1a1cb178489afb95c94c28e43, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 4696423257197244314, guid: 6e2476c1a1cb178489afb95c94c28e43, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
